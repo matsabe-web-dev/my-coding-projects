@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dilse & Co.- Client Experience Survey Form </title>
+  </head>
+
+  <body>
+    <h1 id="title">Dilse & Co. Client Survey Form</h1>
+    <p id="description">Whether you bought, sold, or just came to view a property with us - your feedback helps us serve clients like you better.</p>
+
+    <form id="survey-form">
+      <label id="name-label" for="name">Full Name</label>
+      <input type="text" id="name" name="name" placeholder="e.g. Ikennah Guzman" required/>
+
+      <label id="email-label" for="email">Email Address</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com" required/>
+
+      <label id="number-label" for="number">Porperties Viewed With Us</label>
+      <input type="number" id="number" name="number" placeholder="e.g. 4" min="0" max="100"/>
+
+      <select id="dropdown" name="client-type">
+        <option value="" disabled selected>Choose one</option>
+        <option value="buyer">Buying a property</option>
+        <option value="renter">Renting a property</option>
+        <option value="seller">Selling / listing a property</option>
+        <option value="investor">Investing / commercial inquiry</option>
+      </select>
+
+      <fieldset>
+        <legend>How likely are you to recommend Dilse & Co to a friend?</legend>
+
+        <input type="radio" id="rec-very" name="recommend" value="very-likely"/>
+        <label for="rec-very">Very likely</label>
+
+        <input type="radio" id="rec-somewhat" name="recommend" value="somewhat-likely"/>
+        <label for="rec-somewhat">Somewhat likely</label>
+
+        <input type="radio" id="rec-unlikely" name="recommend" value="unlikely"/>
+        <label for="rec-unlikely">Unlikely</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Where should we focus our energy?</legend>
+
+        <input type="checkbox" id="imp-listings" name="improve" value="listings-variety"/>
+        <label for="imp-listings">Variety of listings</label>
+
+        <input type="checkbox" id="imp-response" name="improve" value="response-time"/>
+        <label for="imp-repsponse">Agent response time</label>
+
+        <input type="checkbox" id="imp-paperwork" name="improve" value="paperwork-process"/>
+        <label for="imp-paperwork">Paperwork / closing process</label>
+      </fieldset>
+
+      <label for="comments">Anything else you'd like us to know?</label>
+      <textarea id="comments" name="comments" placeholder="A specific agent, a property, an idea..." rows="5"></textarea>
+
+      <button type="submit" id="submit">Send Feedback</button>
+
+
+
+
+    </form>
+  </body>
+</html>
