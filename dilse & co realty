@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="description"
+        content="Dilse & Co Realty - Residential sales, rentals, and property management across Nairobi's Karen, Kilimani, and Lavington.">
+    <meta name="keywords"
+        content="Nairobi real estate, Kilimani apartments, Karen homes, property management Kenya, land for sale Kenya">
+    <meta name="author" content="Dilse & Co Realty">
+    <meta name="robots" content="index,follow">
+
+    <link rel="canonical" href="https://www.dilseandcorealty.com">
+    <link rel="icon" type="image/png" href="favicon.jpg">
+
+    <meta property="og:title" content="Dilse & Co Realty | Residential Sales & Rentals">
+    <meta property="og:description"
+        content="Trusted residential real estate expertise — buying, renting, and property management done right.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.dilseandcorealty.com/">
+    <meta property="og:image" content="https://www.dilseandcorealty.com/images/og-cover.jpg">
+    <meta property="og:locale" content="en_KE">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Dilse & Co Realty | Residential Sales & Rentals">
+    <meta name="twitter:description"
+        content="Trusted residential real estate expertise — buying, renting, and property management done right.">
+    <meta name="twitter:image" content="https://www.dilseandcorealty.com/images/og-cover.jpg">
+
+    <title>Dilse & Co Realty | Residential Sales & Rentals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body itemscope itemtype="https://schema.org/RealEstateAgent">
+    <header>
+        <a href="#main-content" class="skip-link">Skip to main content</a>
+        <div>
+            <a href="#home" aria-label="Dilse & Co Realty - Home">
+                <h1 class="site-logo">Dilse &amp; Co Realty</h1>
+                <img src="favicon.jpg" alt="" width="150" height="150">
+            </a>
+        </div>
+
+        <hr>
+
+        <nav aria-label="Main Navigation">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#buy">Buy</a></li>
+                <li><a href="#listings">Property Listings</a></li>
+                <li><a href="#rent">Rent</a></li>
+                <li><a href="#agents">Agents</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#faq">FAQs</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main id="main-content">
+        <section id="home" aria-labelledby="hero-heading">
+            <h2 id="hero-heading">Find Your Next Home With Dilse &amp; Co Realty</h2>
+            <p>Trusted residential real estate expertise - buying, renting, and property management done right</p>
+
+            <search>
+                <form>
+                    <fieldset>
+                        <legend>Search Properties</legend>
+                        <div>
+                            <label for="location">Location</label>
+                            <select id="location" name="location">
+                                <option value="">Any Location</option>
+                                <option value="Nairobi">Nairobi</option>
+                                <option value="Karen">Karen</option>
+                                <option value="Kilimani">Kilimani</option>
+                                <option value="Lavington">Lavington</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="listingType">Looking to</label>
+                            <select id="listingType" name="listingType">
+                                <option value="">Buy or Rent</option>
+                                <option value="buy">Buy</option>
+                                <option value="rent">Rent</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="priceRange">Price Range</label>
+                            <select id="priceRange" name="priceRange">
+                                <option value="">Any Price</option>
+                                <option value="0-10M">Under 10M KES</option>
+                                <option value="10M-30M">10M-30M</option>
+                                <option value="30M-plus">30M+ KES</option>
+                            </select>
+                        </div>
+
+                        <button type="submit">Search Properties</button>
+                    </fieldset>
+                </form>
+            </search>
+        </section>
+
+        <hr>
+        
+        <section id="about" aria-labelledby="about-heading">
+                <h2 id="about-heading">🌟 About Dilse &amp; Co Realty</h2>
+                <p><em>Securing Your Wealth. Simplifying Your Journey.</em></p>
+
+                <p itemprop="description">Navigating the Kenyan real estate market shouldn't feel like a gamble. At
+                    Dilse &amp; Co Realty, we transform overwhelming property transactions into clear, structured, and
+                    risk-free investments. We don't just list properties; we protect your capital and secure your future
+                    by combining deep local market expertise with uncompromising legal due diligence.</p>
+
+                <h3>🔎 Why Savvy Clients Choose Us</h3>
+                <p>Nairobi's real estate moves fast, but pitfalls like disputed titles, surprise fees, and poorly
+                    managed properties move faster. We exist to eliminate that risk. When you partner with us, you are
+                    buying ultimate peace of mind. Every property in our portfolio is pre-vetted, legally secure, and
+                    optimized for maximum yield so you can invest with absolute confidence.</p>
+
+                <ul class="value-pillars">
+                    <li>
+                        <h4>Risk Elimination</h4>
+                        <p>Every single title deed and registry history is fully verified before it reaches you. You
+                            will never inherit a legal dispute or a fraudulent listing.</p>
+                    </li>
+                    <li>
+                        <h4>Absolute Cost Certainty</h4>
+                        <p>No hidden agency fees, no surprise closing costs. The numbers you are quoted upfront are
+                            exactly what you pay.</p>
+                    </li>
+                    <li>
+                        <h4>Yield-Focused Data</h4>
+                        <p>We benchmark every investment against current market data, ensuring you purchase properties
+                            with proven rental demand and predictable returns.</p>
+                    </li>
+                    <li>
+                        <h4>End-to-End Asset Protection</h4>
+                        <p>We don't disappear after closing day. From tenant sourcing to hands-off property management,
+                            we protect your asset over its entire lifecycle.</p>
+                    </li>
+                </ul>
+
+                <h3>📈 Our Strategic Portfolio &amp; Expertise</h3>
+
+                <h4>Our Story</h4>
+                <p>Built on a foundation of trust, transparency, and personal attention, Dilse &amp; Co Realty began by
+                    helping families secure premium homes in Nairobi's premier hubs like Westlands and Kilimani. Today,
+                    we have evolved into a premier, full-service real estate brokerage handling high-value residential
+                    sales, luxury rentals, strategic land acquisition, and hands-off property management.</p>
+
+                <h4>Who We Serve &amp; How We Deliver Value</h4>
+                <ul>
+                    <li>
+                        <h5>Discerning Homebuyers</h5>
+                        <p>Curated access to elite family residences and modern apartments in Nairobi's highly
+                            sought-after neighborhoods, including Karen, Kilimani, and Lavington.</p>
+                    </li>
+                    <li>
+                        <h5>Diaspora Investors</h5>
+                        <p>A fully secure, transparent gateway to buy property remotely in Kenya. We act as your trusted
+                            ground team with zero risk of mismanaged funds.</p>
+                    </li>
+                    <li>
+                        <h5>Land &amp; Portfolio Growth Investors</h5>
+                        <p>High-yield land opportunities vetted for immediate capital appreciation in rapidly expanding
+                            investment corridors like Juja and Kangundo Road.</p>
+                    </li>
+                    <li>
+                        <h5>Premium Landlords</h5>
+                        <p>Maximum occupancy, rigorous tenant screening, and stress-free rental collection managed by
+                            industry professionals.</p>
+                    </li>
+                </ul>
+
+            </section>
+
+        <hr>
+
+        <section id="services" aria-labelledby="services-heading">
+            <h2 id="services-heading">Our Services</h2>
+            <p>From finding your next home to growing a property portfolio, Dilse &amp; Co Realty offers a full range of
+                real estate services tailored to Kenya's market.</p>
+
+            <ul class="services-list">
+
+                <li class="service-item" itemscope itemtype="https://schema.org/Service">
+                    <h3 itemprop="name">Residential Brokerage (Buy &amp; Rent)</h3>
+                    <p itemprop="description">Helping clients find houses, apartments, and townhomes to purchase or
+                        lease.</p>
+                </li>
+
+                <li class="service-item" itemscope itemtype="https://schema.org/Service">
+                    <h3 itemprop="name">Property Management</h3>
+                    <p itemprop="desciption">Handling maintenance, rent collection, and tenant relationships for
+                        landlords.</p>
+                </li>
+
+                <li class="service-item" itemscope itemtype="http://schema.org/Service">
+                    <h3 itemprop="name">Premium Listings</h3>
+                    <p itemprop="description">A curated database of available homes, plus a portal where landlords can
+                        submit their properties to be featured by our firm.</p>
+                </li>
+
+                <li class="service-item" itemscope itemtype="https://schema.org/Service">
+                    <h3 itemprop="name">Land &amp; Plot Brokerage</h3>
+                    <p itemprop="desciption">Land transactions — such as plots in Juja, Kangundo Road, or Malindi — are
+                        a major part of Kenya's real estate market. We connect investors with land opportunities
+                        offering strong capital gains potential.</p>
+                </li>
+
+                <li class="service-item" itemscope itemtype="https://schema.org/Service">
+                    <h3 itemprop="name">Commercial Real Estate</h3>
+                    <p itemprop="desciption">Beyond residential homes, we handle retail shops, office spaces, and
+                        business stalls — opening the door to larger, business-to-business real estate deals.</p>
+                </li>
+
+                <li class="service-item" itemscope itemtype="https://schema.org/Service">
+                    <h3 itemprop="name">Market Analytics &amp; Valuation</h3>
+                    <p itemprop="desciption">Data-driven property valuations and market insights to help buyers,
+                        sellers, and investors make confident, informed decisions.</p>
+                </li>
+
+                <li class="service-item" itemscope itemtype="https://schema.org/Service">
+                    <h3 itemprop="name">Digital Property Marketing</h3>
+                    <p itemprop="description">Professional photography, virtual tours, and targeted online listings that
+                        get properties in front of the right buyers and tenants faster.</p>
+                </li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="listings" aria-labelledby="listings-heading">
+            <h2 id="listings-heading">Featured Properties</h2>
+            <p>A selection of our current verified listings across Nairobi's most sought-after neighborhoods.</p>
+
+            <ul class="listings-grid">
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="kilimani-apartment-1.jpg"
+                            alt="Modern two-bedroom apartment in Kilimani with open-plan living area" itemprop="image"
+                            width="320" height="220">
+                        <h3 itemprop="name">2-Bedroom Apartment, Kilimani</h3>
+                        <p itemprop="description">Bright, modern apartment with secure parking, backup water, and
+                            24-hour security.</p>
+                        <p><strong itemprop="price">KES 12,500,000</strong></p>
+                        <p itemprop="address">Kilimani, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Kilimani apartment listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="karen-townhouse-1.jpg"
+                            alt="Spacious four-bedroom townhouse in Karen with private garden" itemprop="image"
+                            width="320" height="220">
+                        <h3 itemprop="name">4-Bedroom Townhouse, Karen</h3>
+                        <p itemprop="description">Family townhouse set in a gated compound with a private garden and
+                            staff quarters.</p>
+                        <p><strong itemprop="price">KES 38,000,000</strong></p>
+                        <p itemprop="address">Karen, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Karen townhouse listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="juja-plot-1.jpg" alt="Vacant land plot in Juja suitable for residential development"
+                            itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">50x100 Plot, Juja</h3>
+                        <p itemprop="description">Ready-title land plot with clean documentation, ideal for residential
+                            development.</p>
+                        <p><strong itemprop="price">KES 4,200,000</strong></p>
+                        <p itemprop="address">Juja, Kiambu County</p>
+                        <a href="#contact" aria-label="Inquire about the Juja land plot listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="westlands-rental-1.jpg" alt="Furnished one-bedroom rental apartment in Westlands"
+                            itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">1-Bedroom Furnished Apartment, Westlands</h3>
+                        <p itemprop="description">Fully furnished rental with gym access, backup power, and walking
+                            distance to shopping malls.</p>
+                        <p><strong itemprop="price">KES 75,000 / month</strong></p>
+                        <p itemprop="address">Westlands, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Westlands rental listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="lavington-house-1.jpg" alt="Three-bedroom family home in Lavington with mature garden"
+                            itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">3-Bedroom Family Home, Lavington</h3>
+                        <p itemprop="description">Quiet family home with a mature garden, ideal for tenants seeking
+                            privacy near the city center.</p>
+                        <p><strong itemprop="price">KES 120,000 / month</strong></p>
+                        <p itemprop="address">Lavington, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Lavington rental listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="kilimani-ofice-1.jpg" alt="Commercial office space in Kilimani available for lease"
+                            itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">Office Space, Kilimani</h3>
+                        <p itemprop="description">Open-plan commercial office suite with reception area, parking, and
+                            24-hour access.</p>
+                        <p><strong itemprop="price">KES 210,000 / month</strong></p>
+                        <p itemprop="address">Kilimani, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Kilimani office listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="kagundo-plot-1.jpg" alt="Vacant land plot along Kangundo Road with clean title"
+                            itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">40x80 Plot, Kangundo Road</h3>
+                        <p itemprop="description">Verified clean-title plot in a fast-growing corridor, ideal for
+                            long-term capital appreciation.</p>
+                        <p><strong itemprop="price">KES 2,800,000</strong></p>
+                        <p itemprop="address">Kangundo Road, Machakos County</p>
+                        <a href="#contact" aria-label="Inquire about the Kangundo Road land plot listing">Inquire
+                            Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="lavington-apartment-1.jpg" alt="Studio apartment in Lavington ideal for young professionals" itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">3-Bedroom Family Home, Lavington</h3>
+                        <p><strong itemprop="price">KES 45,000 / month</strong></p>
+                        <p itemprop="address">Lavington, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Lavington studio apartment listing">Inquire
+                            Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="karen-plot-1.jpg" alt="Half-acre residential plot in Karen with mature trees"
+                            itemprop="image" width="320" height="220">
+                        <h3 itemprop="name">Half-Acre Plot, Karen</h3>
+                        <p itemprop="description">Spacious residential plot with mature trees, ready for a custom-built
+                            family home.</p>
+                        <p><strong itemprop="price">KES 22,000,000</strong></p>
+                        <p itemprop="address">Karen, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Karen land plot listing">Inquire Now</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article itemscope itemtype="https://schema.org/Residence">
+                        <img src="westlands-retail-1.jpg"
+                            alt="Ground-floor retail shop space in Westlands available for lease" itemprop="image"
+                            width="320" height="220">
+                        <h3 itemprop="name">Retail Shop Space, Westlands</h3>
+                        <p itemprop="description">High-visibility ground-floor retail unit in a busy commercial strip
+                            with ample foot traffic.</p>
+                        <p><strong itemprop="price">KES 150,000 / month</strong></p>
+                        <p itemprop="address">Westlands, Nairobi</p>
+                        <a href="#contact" aria-label="Inquire about the Westlands retail space listing">Inquire Now</a>
+                    </article>
+                </li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="buy" aria-labelledby="buy-heading">
+            <h2 id="buy-heading">Acquire Verified, High-Yield Property Assets</h2>
+            <p>Buy with confidence — every listing is vetted, every yield is analyzed, and every closing is legally
+                secured, so you invest without the stress of the traditional market.</p>
+
+            <div class="buy-pipeline" itemscope itemtype="https://schema.org/Howto">
+                <meta itemprop="name" content="Our 3-step acquisition pipeline">
+
+                <ol>
+
+                    <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+                        <h3 itemprop="name">Step 1: Vetted Selection</h3>
+                        <p itemprop="text">Every property undergoes full title deed verification and legal due diligence
+                            before it's added to our inventory, so you never inherit a hidden dispute.</p>
+                    </li>
+
+                    <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+                        <h3 itemprop="name">Step 2: Yield Analytics</h3>
+                        <p itemprop="text">Each opportunity is benchmarked using detailed market and yield modeling,
+                            giving you clear, data-backed projections before you commit capital.</p>
+                    </li>
+
+                    <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+                        <h3 itemprop="name">Step 3: Secure Closing</h3>
+                        <p itemprop="text">Our legal team manages the full transfer process under a secure closing
+                            framework, protecting your funds and ownership rights from offer to title.</p>
+                    </li>
+                </ol>
+            </div>
+
+            <search>
+                <form>
+                    <fieldset>
+                        <legend>Search Inventory</legend>
+
+                        <div>
+                            <label for="buyLocation">Location</label>
+                            <select id="buyLocation" name="buyLocation">
+                                <option value="">Any Location</option>
+                                <option value="Kilimani">Kilimani</option>
+                                <option value="Westlands">Westlands</option>
+                                <option value="Juja">Juja Plots</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="buyBudget">Purchase Budget</label>
+                            <select id="buyBudget" name="buyBudget">
+                                <option value="">Any Budget</option>
+                                <option value="0-10M">Under 10M KES</option>
+                                <option value="10M-30M">10M - 30M KES</option>
+                                <option value="30M-plus">30M+ KES</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="buyType">Property Type</label>
+                            <select id="buyType" name="buyType">
+                                <option value="">Any Type</option>
+                                <option value="apartment">Apartment</option>
+                                <option value="townhouse">Townhouse</option>
+                                <option value="land">Land Plot</option>
+                            </select>
+                        </div>
+
+                        <button type="submit" aria-label="Search available property inventory">Search Inventory</button>
+                    </fieldset>
+                </form>
+            </search>
+        </section>
+
+        <hr>
+
+        <section id="rent" aria-labelledby="rent-heading">
+            <h2 id="rent-heading">Verified Rentals, Zero Hassle</h2>
+            <p>Every rental listed with Dilse &amp; Co Realty is vetted, every lease is transparent, and every handoff
+                is digital — so you move in with confidence, not paperwork headaches.</p>
+
+            <div class="rent-framework" itemscope itemtype="https://schema.org?HowToStep">
+                <meta itemprop="name" content="Our 3-step tenant protection framework">
+
+                <ol>
+                    <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+                        <h3 itemprop="name">Step 1: Vetted Listings</h3>
+                        <p itemprop="text">Every property is physically inspected and verified by our team before it's
+                            listed, so what you see is exactly what you get.</p>
+                    </li>
+
+                    <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+                        <h3 itemprop="name">Step 2: Transparent Leases</h3>
+                        <p itemprop="text">Clear, plain-language lease terms with no hidden fees — you know your full
+                            costs and obligations before you sign.</p>
+                    </li>
+
+                    <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+                        <h3 itemprop="name">Step 3: Digital Maintenance &amp; Payment Handoff</h3>
+                        <p itemprop="text">Rent payments, maintenance requests, and landlord communication handled
+                            through a simple digital system — no chasing paper receipts.</p>
+                    </li>
+                </ol>
+            </div>
+
+            <search>
+                <form>
+                    <fieldset>
+                        <legend>Search Rentals</legend>
+
+                        <div>
+                            <label for="rentLocation">Location</label>
+                            <select id="rentLocation" name="rentLocation">
+                                <option value="">Any Location</option>
+                                <option value="Kilimani">Kilimani</option>
+                                <option value="Westlands">Westlands</option>
+                                <option value="Karen">Karen</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="rentBudget">Monthly Rent Budget</label>
+                            <select id="rentBudget" name="rentBudget">
+                                <option value="">Any Budget</option>
+                                <option value="0-50K">Under 50K KES</option>
+                                <option value="50K-100K">50K - 100K KES</option>
+                                <option value="100K-plus">100K+ KES</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="rentSize">Property Size</label>
+                            <select id="rentSize" name="rentSize">
+                                <option value="">Any Size</option>
+                                <option value="studio">Studio</option>
+                                <option value="1-bed">1-Bed</option>
+                                <option value="2-bed">2-Bed</option>
+                            </select>
+                        </div>
+
+                        <button type="submit" aria-label="Explore available rental properties">Explore Rentals</button>
+                    </fieldset>
+                </form>
+            </search>
+        </section>
+
+        <hr>
+
+        <section id="agents" aria-labelledby="agents-heading">
+            <h2 id="agents-heading">Our Elite Agents</h2>
+            <p>Every agent at Dilse &amp; Co Realty combines rigorous legal due diligence with data-driven market
+                analytics, so your investment is protected at every step — from first listing to final signature.</p>
+
+            <ul class="agents-grid">
+
+                <li>
+                    <article aria-labelledby="agent-john-karoki" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="john.karoki.jpg.jpg"
+                            alt="Corporate headshot portrait of John Karoki, Principal Broker and Founder of Dilse &amp; Co Realty"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-john-karoki" itemprop="name">John Karoki</h3>
+                        <p itemprop="jobTitle">Principal Broker &amp; Founder</p>
+                        <a href="#contact" aria-label="Book a consultation with John Karoki">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-mary-mwangi" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="mary.mwangi.jpg.jpg"
+                            alt="Corporate headshot portrait of Mary Mwangi, Head of Residential Acquisitions for Kilimani and Westlands"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-mary-mwangi" itemprop="name">Mary Mwangi</h3>
+                        <p itemprop="jobTitle">Head of Residential Acquisitions (Kilimani &amp; Westlands)</p>
+                        <a href="#contact" aria-label="Book a consultation with Mary Mwangi">Book Consultation</a>
+                    </article>
+                </li>
+
+
+                <li>
+                    <article aria-labelledby="agent-david-ochieng" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="david.ochieng.jpg.jpg"
+                            alt="Corporate headshot portrait of David Ochieng, Senior Land Valuer and Title Analyst"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-david-ochieng" itemprop="name">David Ochieng</h3>
+                        <p itemprop="jobTitle">Senior Land Valuer &amp; Title Analyst</p>
+                        <a href="#contact" aria-label="Book a consultation with David Ochieng">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-amina-abubakar" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="aminaabubakar.jpg.jpg"
+                            alt="Corporate headshot portrait of Amina Abubakar, Premium Property Management Director"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-amina-abubakar" itemprop="name">Amina Abubakar</h3>
+                        <p itemprop="jobTitle">Premium Property Management Director</p>
+                        <a href="#contact" aria-label="Book a consultation with Amina Abubakar">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-joseph-kamau" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="johnkamau.jpg.jpg"
+                            alt="Corporate headshot portrait of Joseph Kamau, Commercial Leasing Specialist"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-joseph-kamau" itemprop="name">Joseph Kamau</h3>
+                        <p itemprop="jobTitle">Commercial Leasing Specialist</p>
+                        <a href="#contact" aria-label="Book a consultation with Joseph Kamau">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-faith-chepngetich" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="bellatyla.jpg.jpg"
+                            alt="Corporate headshot portrait of Faith Chepngetich, Investor Yield and Market Analyst"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-bellah-tylah" itemprop="name">Bellah Tylah</h3>
+                        <p itemprop="jobTitle">Investor Yield &amp; Market Analyst</p>
+                        <a href="#contact" aria-label="Book a consultation with Faith Chepngetich">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-emmanuel-kiprop" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="emmanuelkiprop.jpg.jpg"
+                            alt="Corporate headshot portrait of Emmanuel Kiprop, Suburban Housing Broker for Karen and Lang'ata"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-emmanuel-kiprop" itemprop="name">Emmanuel Kiprop</h3>
+                        <p itemprop="jobTitle">Suburban Housing Broker (Karen &amp; Lang'ata)</p>
+                        <a href="#contact" aria-label="Book a consultation with Emmanuel Kiprop">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-sarah-wanjiku" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="sarahwanjiku.jpg.jpg"
+                            alt="Corporate headshot portrait of Sarah Wanjiku, Digital Property Marketing Strategist"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-sarah-wanjiku" itemprop="name">Sarah Wanjiku</h3>
+                        <p itemprop="jobTitle">Digital Property Marketing Strategist</p>
+                        <a href="#contact" aria-label="Book a consultation with Sarah Wanjiku">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-michael-mwenda" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="michaelmwenda.jpg.jpg"
+                            alt="Corporate headshot portrait of Michael Mwenda, Off-Plan Development Specialist"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-michael-mwenda" itemprop="name">Michael Mwenda</h3>
+                        <p itemprop="jobTitle">Off-Plan Development Specialist</p>
+                        <a href="#contact" aria-label="Book a consultation with Michael Mwenda">Book Consultation</a>
+                    </article>
+                </li>
+
+                <li>
+                    <article aria-labelledby="agent-grace-omwamba" itemprop="employee" itemscope
+                        itemtype="https://schema.org/Person">
+                        <img src="gracemwamba.gpg.jpg"
+                            alt="Corporate headshot portrait of Grace Omwamba, Lead Tenant Relations Coordinator"
+                            itemprop="image" width="250" height="250">
+                        <h3 id="agent-grace-omwamba" itemprop="name">Grace Omwamba</h3>
+                        <p itemprop="jobTitle">Lead Tenant Relations Coordinator</p>
+                        <a href="#contact" aria-label="Book a consultation with Grace Omwamba">Book Consultation</a>
+                    </article>
+                </li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="testimonials" aria-labelledby="testimonials-heading">
+            <h2 id="testimonials-heading">Client Testimonials</h2>
+            <p>Our reputation is built on secure title deeds, data-driven yield analysis, and seamless property
+                management — hear directly from the clients who've trusted us with their investments.</p>
+
+            <ul class="testimonials-grid">
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema/Review">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>Buying property from abroad felt risky until Dilse &amp; Co Realty handled every title
+                                deed check personally. I closed on two townhouses in Karen without a single site visit.
+                            </p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Dr. Patrick Mutua</span> - Verfied Diaspora Buyer
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>My Kilimani apartment block runs itself now. Rent collection, maintenance, tenant issues
+                                — their property management team handles it all, and I finally have peace of mind.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Beatrice Nyambura</span> — Verified Landlord
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>We needed a commercial plot in Juja with a clean title and real growth potential. Their
+                                land team delivered exactly that, with none of the usual back-and-forth.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Kevin Kipkemboi</span> — Verified Commercial Buyer
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>Every apartment I viewed in Westlands had been personally inspected by their team. I
+                                moved into a verified 3-bedroom with zero surprises on lease day.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Halima Hussein</span> — Verified Renter
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>As a first-time buyer, off-plan purchases scared me. Dilse &amp; Co Realty walked me
+                                through the developer agreement line by line, and I closed with total confidence.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Brian Mwenda</span> — Verified Buyer
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org/Review">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>Their market analytics and valuation data have become a core part of how we price new
+                                developments. The projections are consistently accurate and easy to act on.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Rachel Atieno</span> — Verified Developer Client
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org/Review">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>We leased two retail office spaces through their commercial team. The lease terms were
+                                transparent from day one, and the whole process moved faster than expected.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Captain James Omondi</span> — Verified Commercial Client
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org/Review">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>Buying land in Kangundo Road can be a minefield of fake titles. Their verification
+                                process caught issues on two plots before I nearly bought them, and found me a clean
+                                one.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Florence Wairimu</span> — Verified Land Buyer
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org/Review">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>We wanted a quiet family home in Lang'ata without the usual rental runaround. They found
+                                us the right place and made the lease process simple from start to finish.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Dennis &amp; Stacy Omwamba</span> — Verified Renters
+                        </figcaption>
+                    </figure>
+                </li>
+
+                <li>
+                    <figure itemprop="review" itemscope itemtype="https://schema.org/Review">
+                        <meta itemprop="itemReviewed" content="Dilse & Co Realty">
+                        <blockquote itemprop="reviewBody">
+                            <p>Their digital marketing and data models consistently shorten our property turnaround
+                                times. It's rare to find a firm that treats real estate this analytically.</p>
+                        </blockquote>
+                        <figcaption itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">Tariq Juma</span> — Verified Institutional Investor
+                        </figcaption>
+                    </figure>
+                </li>
+
+            </ul>
+
+            <div class="testimonials-cta">
+                <a href="#contact" aria-label="Book a consultation with our team of real estate agents">Book a
+                    Consultation with Our Team</a>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="faq" aria-labelledby="faq-heading">
+            <h2 id="faq-heading">Frequently Asked Questions</h2>
+            <p>Answers to the questions we hear most often from buyers, renters, landlords, and investors.</p>
+
+            <div itemscope itemtype="https://schema.org/FAQPage">
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">How long does the buying process typically take?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">Most purchases close within 30 - 60 days once title deed verification and
+                            financing are complete. Off-plan purchases can take longer depending on the developer's
+                            construction timeline.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">Do you charge any upfront fees?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">No. Our commission is only due upon successful closing or lease signing —
+                            never upfront.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">Can I buy property remotely if I'm living outside Kenya?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">Yes. We handle full title deed verification and legal due diligence on your
+                            behalf, and many diaspora clients close without ever needing a site visit.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">What areas do you currently cover?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">We specialize in Karen, Kilimani, Lavington, and Westlands for residential
+                            sales and rentals, plus land opportunities in Juja, Kangundo Road, and Malindi.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">How does your property management service work?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">We handle tenant relations, maintenance coordination, and rent collection on
+                            your behalf, with rent payments and maintenance requests managed through a simple digital
+                            system.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">How do you verify a property's title before listing it?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">Every property undergoes full title deed verification and legal due diligence
+                            before it's added to our inventory, so you never inherit a hidden ownership dispute.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">What's included in your rental screening process?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">Every property is physically inspected and verified by our team before it's
+                            listed, and every lease uses clear, plain-language terms with no hidden fees.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">Do you handle commercial properties, or only residential?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">Both. Alongside residential sales and rentals, we also handle retail shops,
+                            office spaces, and business stalls for commercial clients.</p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">Can you help me determine a fair price for my property?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">Yes. Our team provides data-driven property valuations and market insights,
+                            benchmarking your property against current yield and market data before you list or sell.
+                        </p>
+                    </div>
+                </details>
+
+                <details itemscope itemtype="https://schema.org/Question" itemprop="mainEntity">
+                    <summary itemprop="name">What happens after I submit a consultation request?</summary>
+                    <div itemscope itemtype="https://schema.org/Answer" itemprop="acceptedAnswer">
+                        <p itemprop="text">A member of our consulting desk will reach out using the phone number or
+                            email you provide to schedule a consultation and discuss your specific property goals.</p>
+                    </div>
+                </details>
+
+            </div>
+
+            <div class="faq-cta">
+                <p>Got more questions?</p>
+                <a href="#contact" aria-label="Contact our team to ask more questions">Ask Our Team</a>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="contact" aria-labelledby="contact-heading">
+            <h2 id="contact-heading">Contact Us</h2>
+            <p>Connect with our consulting desk today and let's turn your property goals into a secured, high-value
+                investment.</p>
+
+            <div class="contact-wrapper">
+                <h3>Head Office</h3>
+                <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+                    <p><span itemprop="streetAddress">Westlands</span>, <span itemprop="addressLocality">Nairobi</span>,
+                        <span itemprop="addressCountry">Kenya</span>
+                    </p>
+                    <iframe title="Dilse &amp; Co Realty Office Location"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.364476011086!2d36.8100287!3d-1.2681246999999944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f173c0a1f9de7%3A0xad2c84df1f7f2ec8!2sWestlands%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1787324426285!5m2!1sen!2ske"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                    <p><a href="https://www.google.com/maps/place/Westlands,+Nairobi" target="_blank"
+                            rel="noopener noreferrer">View on Goolge Maps</a></p>
+                </address>
+
+                <h3>Phone</h3>
+                <Address>
+                    <p><a href="tel:+254715640337" itemprop="telephone">+254 715 640 337</a></p>
+                    <p><a href="tel:+254102251226">+254 102 251 226</a></p>
+                </address>
+
+                <h3>Email</h3>
+                <address>
+                    <p><a href="mailto:info@dilserealty.com" itemprop="email">info@dilserealty.com</a></p>
+                </address>
+
+                <h3>Operating Hours</h3>
+                <p>Mon &ndash; Sat: <time datetime="08:00">8:00AM</time> &ndash; <time datetime="17:00">5:00 PM</time>
+                </p>
+            </div>
+
+            <form aria-label="Consultation request form">
+                <div>
+                    <label for="fullName">Full Name</label>
+                    <input type="text" id="fullName" name="fullName" autocomplete="name" required>
+                </div>
+
+                <div>
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" autocomplete="email" required>
+                </div>
+
+                <div>
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" id="phone" name="phone" autocomplete="tel" aria-describedby="phone-hint" required>
+                    <p id="phone-hint">We'll only use this to schedule your consultation.</p>
+                </div>
+
+                <div>
+                    <label for="serviceRequired">Service Required</label>
+                    <select id="serviceRequired" name="serviceRequired">
+                        <option value="">Select a Service</option>
+                        <option value="residential-brokerage">Residential Brokerage</option>
+                        <option value="property-management">Property Management</option>
+                        <option value="exclusive-listing">Exclusive Property Listing</option>
+                        <option value="land-plot-brokerage">Land &amp; Plot Brokerage</option>
+                        <option value="market-analytics">Market Analytics &amp; Valuation</option>
+                        <option value="premium-marketing">Premium Property Marketing</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="budget">Capital / Budget</label>
+                    <select id="budget" name="budget">
+                        <option value="">Select a Range</option>
+                        <option value="below-5M">Below Ksh 5M</option>
+                        <option value="5M-15M">Ksh 5M - 15M</option>
+                        <option value="15M-30M">Ksh 15M - 30M</option>
+                        <option value="30M-plus">Ksh 30M+</option>
+                        <option value="not-applicable">Not Applicable</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message"
+                        placeholder="Tell us about your property goals — what are you looking to buy, rent, sell, or manage?"></textarea>
+                </div>
+
+                <button type="submit" aria-label="Submit consultation request to Dilse and Co Realty">Submit
+                    Consultation Request</button>
+            </form>
+
+        </section>
+
+        <hr>
+
+    </main>
+
+    <footer>
+        <p><a href="#main-content">Back to Top ↑</a></p>
+        <nav aria-label="Footer">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#agents">Agents</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <p>
+            <a href="tel:+254715640337" itemprop="telephone">+254 715 640 337</a> &middot;
+            <a href="mailto:info@dilserealty.com" itemprop="email">info@dilserealty.com</a>
+        </p>
+        <p>&copy; 2026 Dilse &amp; Co Realty. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
